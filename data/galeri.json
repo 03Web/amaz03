@@ -2,44 +2,108 @@
   "albumFoto": [
     {
       "id": "album-1",
-      "cover": "foto/foto-karang-taruna/kumpulan-karang-taruna-banjarsari1.jpeg",
-      "judul": "picture about Karang Taruna",
+      "cover": "/foto/new0/me_botak.jpg",
+      "judul": "picture",
       "deskripsi": "10+ Foto",
       "foto": [
         {
-          "src": "foto/foto-karang-taruna/halal1.png",
-          "title": "Halal Bihalal"
+          "src": "/foto/new0/children.jpg",
+          "title": "children"
         },
         {
-          "src": "foto/foto-karang-taruna/kumpulan-karang-taruna-banjarsari1.jpeg",
-          "title": "rapat/kumpulan karang taruna"
+          "src": "/foto/new0/sd.jpg",
+          "title": "sd"
         },
         {
-          "src": "foto/foto-karang-taruna/angkringan.jpeg",
-          "title": "Angkringan"
+          "src": "/foto/new0/smp.jpg",
+          "title": "smp"
         },
-        { "src": "foto/foto-karang-taruna/wisata.jpeg", "title": "Wisata" },
+        { "src": "/foto/new0/high_school.jpg", "title": "sma" },
         {
-          "src": "foto/foto-karang-taruna/17_agurstus_girl.png",
-          "title": "Peringatan 17 Agustus 2024"
-        },
-        {
-          "src": "foto/foto-karang-taruna/17agustus_men.png",
-          "title": "Peringatan 17 Agustus 2024"
+          "src": "/foto/new0/high_school1.jpg",
+          "title": "sma 1"
         },
         {
-          "src": "foto/foto-karang-taruna/halal2_girl.png",
-          "title": "Halal Bihalal"
+          "src": "/foto/new0/high_school2.JPG",
+          "title": "sma"
+        },
+        {
+          "src": "/foto/new0/bass.jpg",
+          "title": "musik"
+        },
+        {
+          "src": "/foto/new0/drummer.webp",
+          "title": "musik"
+        },
+        {
+          "src": "/foto/new0/me_cajon.jpg",
+          "title": "musik"
+        },
+        {
+          "src": "/foto/new0/me_and_band.jpg",
+          "title": ""
+        },
+        {
+          "src": "/foto/new0/me_retret.JPG",
+          "title": "retret"
+        },
+        {
+          "src": "/foto/new0/pepople_krengseng1.jpg",
+          "title": ""
+        },
+        {
+          "src": "/foto/new0/people_krengseng.jpg",
+          "title": ""
+        },
+        {
+          "src": "/foto/new0/natal.jpg",
+          "title": ""
+        },
+        {
+          "src": "/foto/new0/metriel.jpg",
+          "title": ""
+        },
+        {
+          "src": "/foto/new0/friends_cjwi.jpg",
+          "title": "cjwi"
+        },
+        {
+          "src": "/foto/new0/cimory.jpg",
+          "title": "cimory"
+        },
+        {
+          "src": "/foto/new0/cimory2.jpg",
+          "title": "cimory"
+        },
+        {
+          "src": "/foto/new0/kuliah.jpg",
+          "title": "school"
+        },
+        {
+          "src": "/foto/new0/me_botak1.jpg",
+          "title": "school"
+        },
+        {
+          "src": "/foto/new0/me_botak.jpg",
+          "title": "school"
+        },
+        {
+          "src": "/foto/new0/me_botak1.jpg",
+          "title": "school"
+        },
+        {
+          "src": "/foto/new0/bass.jpg",
+          "title": "musik"
         }
       ]
     },
     {
       "id": "album-2",
-      "cover": "foto/foto-karang-taruna/tari.jpeg",
-      "judul": "Kesenian",
+      "cover": "/foto/books/libary-books.jpg",
+      "judul": "Books",
       "deskripsi": "10+ Foto",
       "foto": [
-        { "src": "foto/foto-karang-taruna/tari.jpeg", "title": "Tari" },
+        { "src": "/foto/books/antropolgi1.jpg", "title": "antropolgi" },
         { "src": "foto/foto-karang-taruna/tari.JPG", "title": "Tari" },
         { "src": "foto/foto-karang-taruna/hold tari.JPG", "title": "Tari" },
         {
