@@ -2,110 +2,126 @@
   "albumFoto": [
     {
       "id": "album-1",
-      "cover": "/foto/new0/me_botak.jpg",
+      "cover": "foto/new0/me_botak.jpg",
       "judul": "picture",
       "deskripsi": "10+ Foto",
       "foto": [
         {
-          "src": "/foto/new0/children.jpg",
+          "src": "foto/new0/children.jpg",
           "title": "children"
         },
         {
-          "src": "/foto/new0/sd.jpg",
+          "src": "foto/new0/sd.jpg",
           "title": "sd"
         },
         {
-          "src": "/foto/new0/smp.jpg",
+          "src": "foto/new0/smp.jpg",
           "title": "smp"
         },
-        { "src": "/foto/new0/high_school.jpg", "title": "sma" },
+        { "src": "foto/new0/high_school.jpg", "title": "sma" },
         {
-          "src": "/foto/new0/high_school1.jpg",
+          "src": "foto/new0/high_school1.jpg",
           "title": "sma 1"
         },
         {
-          "src": "/foto/new0/high_school2.JPG",
+          "src": "foto/new0/high_school2.JPG",
           "title": "sma"
         },
         {
-          "src": "/foto/new0/bass.jpg",
+          "src": "foto/new0/bass.jpg",
           "title": "musik"
         },
         {
-          "src": "/foto/new0/drummer.webp",
+          "src": "foto/new0/drummer.webp",
           "title": "musik"
         },
         {
-          "src": "/foto/new0/me_cajon.jpg",
+          "src": "foto/new0/me_cajon.jpg",
           "title": "musik"
         },
         {
-          "src": "/foto/new0/me_and_band.jpg",
+          "src": "foto/new0/me_and_band.jpg",
           "title": ""
         },
         {
-          "src": "/foto/new0/me_retret.JPG",
+          "src": "foto/new0/me_retret.JPG",
           "title": "retret"
         },
         {
-          "src": "/foto/new0/pepople_krengseng1.jpg",
+          "src": "foto/new0/pepople_krengseng1.jpg",
           "title": ""
         },
         {
-          "src": "/foto/new0/people_krengseng.jpg",
+          "src": "foto/new0/people_krengseng.jpg",
           "title": ""
         },
         {
-          "src": "/foto/new0/natal.jpg",
+          "src": "foto/new0/natal.jpg",
           "title": ""
         },
         {
-          "src": "/foto/new0/metriel.jpg",
+          "src": "foto/new0/metriel.jpg",
           "title": ""
         },
         {
-          "src": "/foto/new0/friends_cjwi.jpg",
+          "src": "foto/new0/friends_cjwi.jpg",
           "title": "cjwi"
         },
         {
-          "src": "/foto/new0/cimory.jpg",
+          "src": "foto/new0/cimory.jpg",
           "title": "cimory"
         },
         {
-          "src": "/foto/new0/cimory2.jpg",
+          "src": "foto/new0/cimory2.jpg",
           "title": "cimory"
         },
         {
-          "src": "/foto/new0/kuliah.jpg",
+          "src": "foto/new0/kuliah.jpg",
           "title": "school"
         },
         {
-          "src": "/foto/new0/me_botak1.jpg",
+          "src": "foto/new0/me_botak1.jpg",
           "title": "school"
         },
         {
-          "src": "/foto/new0/me_botak.jpg",
+          "src": "foto/new0/me_botak.jpg",
           "title": "school"
         },
         {
-          "src": "/foto/new0/me_botak1.jpg",
+          "src": "foto/new0/me_botak1.jpg",
           "title": "school"
         },
         {
-          "src": "/foto/new0/bass.jpg",
+          "src": "foto/new0/me_botak.jpg",
+          "title": "school"
+        },
+        {
+          "src": "foto/new0/me_botak1.jpg",
+          "title": "school"
+        },
+        {
+          "src": "foto/new0/bass.jpg",
           "title": "musik"
         }
       ]
     },
     {
       "id": "album-2",
-      "cover": "/foto/books/libary-books.jpg",
+      "cover": "foto/books/libary-books.jpg",
       "judul": "Books",
       "deskripsi": "10+ Foto",
       "foto": [
-        { "src": "/foto/books/antropolgi1.jpg", "title": "antropolgi" },
-        { "src": "foto/foto-karang-taruna/tari.JPG", "title": "Tari" },
-        { "src": "foto/foto-karang-taruna/hold tari.JPG", "title": "Tari" },
+        { "src": "foto/books/antropolgi1.jpg", "title": "Antropolgi" },
+        { "src": "foto/books/antropoligi2.jpg", "title": "Antropolgi" },
+        { "src": "foto/books/antropoligi3.jpg", "title": "Antropolgi" },
+        { "src": "foto/books/antropologi4.jpg", "title": "Antropolgi" },
+        { "src": "foto/books/biografi.jpg", "title": "Biografi" },
+        { "src": "foto/books/filsafat barat.jpg", "title": "Filsafat Barat" },
+        { "src": "foto/", "title": "" },
+        { "src": "", "title": "" },
+        { "src": "", "title": "" },
+        { "src": "", "title": "" },
+        { "src": "", "title": "" },
         {
           "src": "foto/foto-karang-taruna/teri topeng ireng.JPG",
           "title": "Tari Topeng Ireng"
