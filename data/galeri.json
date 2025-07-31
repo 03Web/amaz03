@@ -4,7 +4,7 @@
       "id": "album-1",
       "cover": "foto/new0/me_botak.jpg",
       "judul": "picture",
-      "deskripsi": "10+ Foto",
+      "deskripsi": "image 1 of 23 ",
       "foto": [
         {
           "src": "foto/new0/children.jpg",
@@ -108,8 +108,8 @@
     {
       "id": "album-2",
       "cover": "foto/books/libary-books.jpg",
-      "judul": "Books",
-      "deskripsi": "10+ Foto",
+      "judul": "A privilege and a blessing to be able to read all these books.",
+      "deskripsi": "image 1 of 52 Foto",
       "foto": [
         { "src": "foto/books/antropolgi1.jpg", "title": "Antropolgi" },
         { "src": "foto/books/antropoligi2.jpg", "title": "Antropolgi" },
