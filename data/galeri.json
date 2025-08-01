@@ -161,10 +161,9 @@
         { "src": "foto/books/science-ricard-feynman.jpg", "title": "Science" },
         { "src": "foto/books/science-ricarddawkins1.jpg", "title": "Science" },
         { "src": "foto/books/science-ricarddawkins2.jpg", "title": "Science" },
-        { "src": "foto/books/science-ricarddawkins3jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins3.jpg", "title": "Science" },
         { "src": "foto/books/science-ricarddawkins4.jpg", "title": "Science" },
         { "src": "foto/books/science-ricarddawkins5.jpg", "title": "Science" },
-        { "src": "foto/books/science-ricarddawkins6.jpg", "title": "Science" },
         {
           "src": "foto/books/science-the-brafe-history-of-time.jpg",
           "title": "Science"
@@ -195,11 +194,7 @@
         },
         { "src": "foto/books/self-help-mindset.jpg", "title": "Self Help" },
         { "src": "foto/books/self-help-money.jpg", "title": "Self Help" },
-        { "src": "foto/books/self-help-zero-one.jpg", "title": "Self Help" },
-        {
-          "src": "foto/foto-karang-taruna/teri topeng ireng.JPG",
-          "title": "Tari Topeng Ireng"
-        }
+        { "src": "foto/books/self-help-zero-one.jpg", "title": "Self Help" }
       ]
     }
   ],
