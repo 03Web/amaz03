@@ -207,7 +207,7 @@
       "judul": "karang taruna banjarsari",
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
-        { "src": "/foto/karang-taruna/agatha.png", "title": "agatha" },
+        { "src": "foto/karang-taruna/agatha.png", "title": "agatha" },
         { "src": "foto/karang-taruna/andri.jpeg", "title": "andri" },
         { "src": "foto/karang-taruna/arikakak.jpeg", "title": "arikakak" },
         { "src": "foto/karang-taruna/arlin.jpeg", "title": "arlin" },
