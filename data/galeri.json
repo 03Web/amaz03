@@ -200,6 +200,97 @@
         { "src": "foto/books/self-help-money.jpg", "title": "Self Help" },
         { "src": "foto/books/self-help-zero-one.jpg", "title": "Self Help" }
       ]
+    },
+    {
+      "id": "album-3",
+      "cover": "foto/taranpraanstayhungry.png",
+      "judul": "karang taruna banjarsari",
+      "deskripsi": "image 1 of 52 Foto",
+      "foto": [
+        { "src": "foto/karang-taruna/agatha.jpeg", "title": "agatha" },
+        { "src": "foto/karang-taruna/andri.jpeg", "title": "andri" },
+        { "src": "foto/karang-taruna/arikakak.jpeg", "title": "arikakak" },
+        { "src": "foto/karang-taruna/arlin.jpeg", "title": "arlin" },
+        { "src": "foto/karang-taruna/babok.jpeg", "title": "babok" },
+        { "src": "foto/karang-taruna/budirt3.jpeg", "title": "budirt3" },
+        { "src": "foto/karang-taruna/danik.jpeg", "title": "danik" },
+        { "src": "foto/karang-taruna/juang.jpeg", "title": "juang" },
+        { "src": "foto/karang-taruna/nana.jpeg", "title": "nana" },
+        { "src": "foto/karang-taruna/nessa.jpeg", "title": "nessa" },
+        { "src": "foto/karang-taruna/nindyy.jpeg", "title": "nindyy" },
+        { "src": "foto/karang-taruna/pesek.jpeg", "title": "pesek" },
+        { "src": "foto/karang-taruna/rendi.jpeg", "title": "rendi" },
+        { "src": "foto/karang-taruna/yuyukdol.jpeg", "title": "yuyukdol" },
+        {
+          "src": "foto/books/science-duniamenurutfisika.jpg",
+          "title": "Science"
+        },
+        { "src": "foto/books/science-sukacitacinta.jpg", "title": "Science" },
+        {
+          "src": "foto/books/science-emotionalentelegent1.jpg",
+          "title": "Science"
+        },
+        {
+          "src": "foto/books/science-emotionalintelegent2.jpg",
+          "title": "Science"
+        },
+        {
+          "src": "foto/books/science-filsafatdll-madilog.jpg",
+          "title": "Science, Filsafat, Madilog dll"
+        },
+        { "src": "foto/books/science-free-will.jpg", "title": "Science" },
+        { "src": "foto/books/science-furture-stories.jpg", "title": "Science" },
+        {
+          "src": "foto/books/science-gendartamungkerji.jpg",
+          "title": "Science"
+        },
+        { "src": "foto/books/science-homo-deus.jpg", "title": "Science" },
+        { "src": "foto/books/science-homo-sapiens.jpg", "title": "Science" },
+        { "src": "foto/books/science-inlaghtmen.jpg", "title": "Science" },
+        { "src": "foto/books/science-money.jpg", "title": "Science" },
+        { "src": "foto/books/science-moral-lanscape.jpg", "title": "Science" },
+        { "src": "foto/books/science-noise.jpg", "title": "Science" },
+        { "src": "foto/books/science-origin-story.jpg", "title": "Science" },
+        { "src": "foto/books/science-otak.jpg", "title": "Science" },
+        { "src": "foto/books/science-pale-blue-dot.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricard-feynman.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins1.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins2.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins3.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins4.jpg", "title": "Science" },
+        { "src": "foto/books/science-ricarddawkins5.jpg", "title": "Science" },
+        {
+          "src": "foto/books/science-the-brafe-history-of-time.jpg",
+          "title": "Science"
+        },
+        { "src": "foto/books/science-the-gred-disgn.jpg", "title": "Science" },
+        {
+          "src": "foto/books/science-the-origin-of-species.jpg",
+          "title": "Science"
+        },
+        {
+          "src": "foto/books/science-trisurya.jpg",
+          "title": "Science fiction"
+        },
+        { "src": "foto/books/sejarah1.jpg", "title": "Sejarah" },
+        { "src": "foto/books/sejarah2.jpg", "title": "Sejarah" },
+        { "src": "foto/books/self-help-alcamits.jpg", "title": "Self Help" },
+        {
+          "src": "foto/books/self-help-atomic-habits.jpg",
+          "title": "Self Help"
+        },
+        {
+          "src": "foto/books/self-help-influence-peoole.jpg",
+          "title": "Self Help"
+        },
+        {
+          "src": "foto/books/self-help-filosofi-teras.jpg",
+          "title": "Self Help"
+        },
+        { "src": "foto/books/self-help-mindset.jpg", "title": "Self Help" },
+        { "src": "foto/books/self-help-money.jpg", "title": "Self Help" },
+        { "src": "foto/books/self-help-zero-one.jpg", "title": "Self Help" }
+      ]
     }
   ],
   "dokumentasiVideo": [
