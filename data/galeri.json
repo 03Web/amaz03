@@ -207,6 +207,13 @@
       "judul": "karang taruna banjarsari",
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
+        {
+          "src": "foto/karang-taruna/margaretha_mentri_agama_kristen.png",
+          "title": "reta"
+        },
+        { "src": "foto/karang-taruna/amazadminweb.png", "title": "amaz" },
+        { "src": "foto/karang-taruna/pak nirma.png", "title": "pak nirman" },
+        { "src": "foto/karang-taruna/yunita.jpeg", "title": "yuni" },
         { "src": "foto/karang-taruna/agatha.png", "title": "agatha" },
         { "src": "foto/karang-taruna/andri.jpeg", "title": "andri" },
         { "src": "foto/karang-taruna/arikakak.jpeg", "title": "arikakak" },
@@ -230,6 +237,90 @@
         { "src": "foto/karang-taruna/davamedia.png", "title": "dava" },
         { "src": "foto/karang-taruna/aifa.png", "title": "aifa" },
         { "src": "foto/karang-taruna/ardan.png", "title": "ardan" }
+      ]
+    },
+    {
+      "id": "album-3",
+      "cover": "foto/taranpraanstayhungry.png",
+      "judul": "Galeri-karang taruna banjarsari",
+      "deskripsi": "image 1 of 52 Foto",
+      "foto": [
+        {
+          "src": "foto/Karang-taruna-galeri/17agustusan/Roundown Lomba Agustus Hari Pertama_20250722_122304_0000.jpg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/17agustusan/PAMFLET LOMBA 17 AGUSTUS KARTAR  (Konten Instagram (4_5))_20250722_120450_0000.png",
+          "title": "pamflet"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/17agustusan/Roundown Lomba Agustus Hari Kedua_20250722_131824_0000.jpg",
+          "title": "pamflet"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/17agustusan/Roundown Lomba Agustus Hari Ketiga_20250722_132519_0000.jpg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/17_agurstus_girl.png",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/17agustus_men.png",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/angkringan.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/angkringan_men.png",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/bal-balan.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/halal1.png",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/halal2_girl.png",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/hold tari (1).jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/hold tari.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/kumpulan-karang-taruna-banjarsari1.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/tari (1).jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/teri topeng ireng.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/wisata.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/wisata2.jpeg",
+          "title": ""
+        },
+        {
+          "src": "foto/karang-taruna/margaretha_mentri_agama_kristen.png",
+          "title": "reta"
+        }
       ]
     }
   ],
