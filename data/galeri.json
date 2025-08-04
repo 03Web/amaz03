@@ -246,6 +246,10 @@
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
         {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/tari.jpeg",
+          "title": ""
+        },
+        {
           "src": "foto/Karang-taruna-galeri/17agustusan/Roundown Lomba Agustus Hari Pertama_20250722_122304_0000.jpg",
           "title": ""
         },
@@ -294,7 +298,7 @@
           "title": ""
         },
         {
-          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/hold tari.jpeg",
+          "src": "/foto/Karang-taruna-galeri/foto-karang-taruna/angkringa_girl.png",
           "title": ""
         },
         {
@@ -318,7 +322,7 @@
           "title": ""
         },
         {
-          "src": "foto/karang-taruna/margaretha_mentri_agama_kristen.png",
+          "src": "",
           "title": "reta"
         }
       ]
