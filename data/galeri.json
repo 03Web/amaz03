@@ -114,62 +114,216 @@
       "cover": "foto/books/libary-books.jpg",
       "judul": "A privilege and a blessing to be able to read all these books.",
       "deskripsi": "image 1 of 52 Foto",
-      "foto": 
-[
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-39-41.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-40-15.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-40-25.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-40-33.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-40-41.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-40-49.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-05.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-12.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-19.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-26.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-35.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-41.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-51.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-41-59.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-05.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-12.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-19.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-27.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-34.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-41.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-49.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-42-55.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-06.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-13.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-21.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-30.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-36.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-41.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-47.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-53.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-43-59.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-05.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-20.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-31.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-43.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-49.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-44-58.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-05.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-12.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-21.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-29.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-35.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-43.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-50.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-45-56.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-03.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-08.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-15.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-24.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-31.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-38.png", "title": "" },
-    { "src": "/foto/books/Screenshot from 2025-08-04 15-46-44.png", "title": "" },
-    { "src": "/foto/books/libary-books.jpg", "title": "Antropolgi" }
-
+      "foto": [
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-39-41.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-40-15.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-40-25.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-40-33.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-40-41.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-40-49.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-05.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-12.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-19.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-26.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-35.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-41.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-51.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-41-59.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-05.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-12.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-19.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-27.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-34.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-41.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-49.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-42-55.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-06.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-13.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-21.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-30.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-36.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-41.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-47.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-53.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-43-59.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-05.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-20.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-31.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-43.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-49.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-44-58.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-05.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-12.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-21.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-29.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-35.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-43.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-50.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-45-56.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-03.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-08.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-15.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-24.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-31.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-38.png",
+          "title": ""
+        },
+        {
+          "src": "/foto/books/Screenshot from 2025-08-04 15-46-44.png",
+          "title": ""
+        },
+        { "src": "/foto/books/libary-books.jpg", "title": "Antropolgi" }
       ]
     },
     {
