@@ -332,6 +332,8 @@
       "judul": "karang taruna banjarsari about",
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
+       
+        { "src": "foto/karang-taruna/ropi.png", "title": "ropi" },
         {
           "src": "foto/karang-taruna/iswantobojonetitin.jpeg",
           "title": "iswanto"
@@ -348,7 +350,6 @@
           "src": "foto/karang-taruna/harni.jpeg",
           "title": "harni"
         },
-        { "src": "foto/karang-taruna/ropi.png", "title": "ropi" },
         { "src": "foto/karang-taruna/wisnu.jpeg", "title": "wisnu" },
         { "src": "foto/karang-taruna/melan.png", "title": "" },
         { "src": "foto/karang-taruna/amazadminweb.png", "title": "amaz" },
@@ -385,6 +386,26 @@
       "judul": "Galeri-karang taruna banjarsari",
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
+         {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/behind the scene1.png",
+          "title": "behind the scene"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/behind the scene2.png",
+          "title": "behind the scene"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/behind the scene3.png",
+          "title": "behind the scene"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/lapangan1.png",
+          "title": "lapangan"
+        },
+        {
+          "src": "foto/Karang-taruna-galeri/foto-karang-taruna/lapangan2.png",
+          "title": "lapangan"
+        },
         {
           "src": "foto/Karang-taruna-galeri/foto-karang-taruna/topeng-ireng05-08-25.jpeg",
           "title": "tgl post 05-08-25.jpeg"
