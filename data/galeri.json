@@ -333,11 +333,11 @@
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
         {
-          "src": "/foto/karang-taruna/iswantobojonetitin.jpeg",
+          "src": "foto/karang-taruna/iswantobojonetitin.jpeg",
           "title": "iswanto"
         },
         {
-          "src": "/foto/karang-taruna/adit.jpeg",
+          "src": "foto/karang-taruna/adit.jpeg",
           "title": "adit"
         },
         {
