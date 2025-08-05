@@ -333,8 +333,20 @@
       "deskripsi": "image 1 of 52 Foto",
       "foto": [
         {
+          "src": "/foto/karang-taruna/iswantobojonetitin.jpeg",
+          "title": "iswanto"
+        },
+        {
+          "src": "/foto/karang-taruna/adit.jpeg",
+          "title": "adit"
+        },
+        {
           "src": "foto/karang-taruna/margaretha_mentri_agama_kristen.png",
           "title": "reta"
+        },
+        {
+          "src": "foto/karang-taruna/harni.jpeg",
+          "title": "harni"
         },
         { "src": "foto/karang-taruna/ropi.png", "title": "ropi" },
         { "src": "foto/karang-taruna/wisnu.jpeg", "title": "wisnu" },
