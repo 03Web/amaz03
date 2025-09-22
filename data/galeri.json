@@ -2,10 +2,42 @@
   "albumFoto": [
     {
       "id": "album-1",
-      "cover": "foto/new0/me_botak.jpg",
+      "cover": "foto/new0/new_profil_black&white_22_09_2025.png",
       "judul": "picture",
       "deskripsi": "image 1 of 23 ",
       "foto": [
+        {
+          "src": "foto/new1/kampus_22_09_2025.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/foto_baren_sma_kartini.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/ibadah_bersama_pengilon.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/keluarga_besar_mbah_ngamo.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/makne.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/me,mom&ded.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new1/wisata_ptcjwi.jpg",
+          "title": "children"
+        },
+        {
+          "src": "foto/new0/new_profil_black&white_22_09_2025.png",
+          "title": "children"
+        },
         {
           "src": "foto/new0/children.jpg",
           "title": "children"
