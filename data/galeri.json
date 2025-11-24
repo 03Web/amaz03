@@ -7,6 +7,22 @@
       "deskripsi": "image 1 of 23 ",
       "foto": [
         {
+          "src": "foto/new1/sindoro1.jpg",
+          "title": "sindoro"
+        },
+        {
+          "src": "foto/new1/sindoro2.jpg",
+          "title": "sindoro"
+        },
+        {
+          "src": "foto/new1/sindoro3.jpg",
+          "title": "sindoro"
+        },
+        {
+          "src": "foto/new1/sindoro4.jpg",
+          "title": "sindoro"
+        },
+        {
           "src": "foto/new1/kampus_22_09_2025.jpg",
           "title": "children"
         },
